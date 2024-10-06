@@ -1,6 +1,9 @@
 # yolov11_dfl_rknn_Cplusplus
 yolov11 rk3588 部署版本，将DFL放在后处理中，转换工具版本 rknn_toolkit2-2.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.
 
+
+导出onnx、转rknn流程说明[【yolov11 部署瑞芯微rk3588、RKNN部署工程难度小、模型推理速度快】](https://blog.csdn.net/zhangqian_1/article/details/142722526)
+
 ## 编译和运行
 
 1）编译
