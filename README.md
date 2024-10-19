@@ -56,7 +56,7 @@ int main(int argc, char **argv)
 ![image](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus/blob/main/examples/rknn_yolov11_demo_dfl_open/yolov11_rk3588_costtime.png)
 
 
-# tenorRT cuda 版本参考(cuda 实现部分最耗时的处理)
+# tenorRT cuda 版本参考(cuda 实现后处理中部分最耗时处理)
 [yolov11_tensorRT_postprocess_cuda](https://github.com/cqu20160901/yolov11_tensorRT_postprocess_cuda)
 
 
